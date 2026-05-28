@@ -1,1 +1,6 @@
-
+{
+  "name": "Resume Screening System",
+  "description": "An AI-powered resume screening application that extracts text, matches skills, calculates alignment scores, and ranks resumes against job descriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
